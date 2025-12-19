@@ -50,7 +50,8 @@ The dataset follows a standard **80:10:10 split** to ensure fair evaluation.
 
 ## 📈 Accuracy & Loss Curves
 
-![ResNet50 Accuracy and Loss](results/resnet50_accuracy_loss.png)
+<img width="1322" height="519" alt="Screenshot 2025-12-19 211314" src="https://github.com/user-attachments/assets/7999182b-0fc7-4e7b-964c-790e18b2071d" />
+
 
 ---
 
