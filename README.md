@@ -17,7 +17,7 @@ for classifying skin disease images using a custom dataset.
   - Validation: **3,660 (~10%)**
   - Test: **3,674 (~10%)**
 
-The dataset follows a standard **80:10:10 split** to ensure fair evaluation.
+The dataset follows a standard **80:10:10 split**
 
 ---
 
